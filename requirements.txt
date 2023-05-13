@@ -1,0 +1,6 @@
+flask
+pymongo
+dnspython
+requests
+BeautifulSoup4
+python-dotenv
